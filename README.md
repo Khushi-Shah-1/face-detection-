@@ -1,2 +1,2 @@
 # face-detection-
-detects faces in image
+Detects faces in an image
